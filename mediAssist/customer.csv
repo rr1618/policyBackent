@@ -1,0 +1,713 @@
+customer_id,customer_Gender,customer_income_group,customer_region,customer_marital_status
+1169,Male,0- $25K,East,1
+1170,Male,0- $25K,East,1
+1171,Male,0- $25K,East,1
+1173,Male,0- $25K,East,1
+1174,Male,0- $25K,East,1
+1178,Male,0- $25K,East,1
+1179,Male,0- $25K,East,1
+1181,Male,0- $25K,East,1
+1182,Male,0- $25K,East,1
+1184,Male,0- $25K,East,1
+1186,Male,0- $25K,East,1
+1187,Male,0- $25K,East,1
+1188,Male,0- $25K,East,1
+1191,Male,0- $25K,East,1
+1192,Male,0- $25K,East,1
+1196,Male,0- $25K,East,1
+1197,Male,0- $25K,East,1
+1201,Male,0- $25K,East,1
+1205,Male,0- $25K,East,1
+1208,Male,0- $25K,East,1
+1210,Male,0- $25K,East,1
+1211,Male,0- $25K,East,1
+1212,Male,0- $25K,East,1
+1214,Male,0- $25K,East,1
+1215,Male,0- $25K,East,1
+1216,Male,0- $25K,East,1
+1219,Male,0- $25K,East,1
+1222,Male,0- $25K,East,1
+1224,Male,0- $25K,East,1
+1225,Male,0- $25K,East,1
+1227,Male,0- $25K,East,1
+1231,Male,0- $25K,East,1
+1234,Male,0- $25K,East,1
+1235,Male,0- $25K,East,1
+1236,Male,0- $25K,East,1
+1237,Male,0- $25K,East,1
+1238,Male,0- $25K,East,1
+1241,Male,0- $25K,East,1
+1242,Male,0- $25K,East,1
+1245,Male,0- $25K,East,1
+1246,Male,0- $25K,East,1
+1247,Male,0- $25K,East,1
+1248,Male,0- $25K,East,1
+1250,Male,0- $25K,East,1
+1251,Male,0- $25K,East,1
+1252,Male,0- $25K,East,1
+1256,Male,0- $25K,East,1
+1257,Male,0- $25K,East,1
+1259,Male,0- $25K,East,1
+1260,Male,0- $25K,East,1
+1262,Male,0- $25K,East,1
+1263,Male,0- $25K,East,1
+1264,Male,0- $25K,East,1
+1266,Male,0- $25K,East,1
+1267,Male,0- $25K,East,1
+1268,Male,0- $25K,East,1
+1271,Male,0- $25K,East,1
+1273,Male,0- $25K,East,1
+1275,Male,0- $25K,East,1
+1276,Male,0- $25K,East,1
+1277,Male,0- $25K,East,1
+1278,Male,0- $25K,East,1
+1280,Male,0- $25K,East,1
+1281,Male,0- $25K,East,1
+1283,Male,0- $25K,East,1
+1285,Male,0- $25K,East,1
+1287,Male,0- $25K,East,1
+1289,Male,0- $25K,East,1
+1290,Male,0- $25K,East,1
+1291,Male,0- $25K,East,1
+1292,Male,0- $25K,East,1
+1293,Male,0- $25K,East,1
+1295,Male,0- $25K,East,1
+1296,Male,0- $25K,East,1
+1300,Male,0- $25K,East,1
+1305,Male,0- $25K,East,1
+1306,Male,0- $25K,East,1
+1167,Male,0- $25K,East,0
+1168,Male,0- $25K,East,0
+1172,Male,0- $25K,East,0
+1175,Male,0- $25K,East,0
+1176,Male,0- $25K,East,0
+1177,Male,0- $25K,East,0
+1180,Male,0- $25K,East,0
+1183,Male,0- $25K,East,0
+1185,Male,0- $25K,East,0
+1189,Male,0- $25K,East,0
+1190,Male,0- $25K,East,0
+1193,Male,0- $25K,East,0
+1194,Male,0- $25K,East,0
+1195,Male,0- $25K,East,0
+1198,Male,0- $25K,East,0
+1199,Male,0- $25K,East,0
+1200,Male,0- $25K,East,0
+1202,Male,0- $25K,East,0
+1203,Male,0- $25K,East,0
+1204,Male,0- $25K,East,0
+1206,Male,0- $25K,East,0
+1207,Male,0- $25K,East,0
+1209,Male,0- $25K,East,0
+1213,Male,0- $25K,East,0
+1217,Male,0- $25K,East,0
+1218,Male,0- $25K,East,0
+1220,Male,0- $25K,East,0
+1221,Male,0- $25K,East,0
+1223,Male,0- $25K,East,0
+1226,Male,0- $25K,East,0
+1228,Male,0- $25K,East,0
+1229,Male,0- $25K,East,0
+1230,Male,0- $25K,East,0
+1232,Male,0- $25K,East,0
+1233,Male,0- $25K,East,0
+1239,Male,0- $25K,East,0
+1240,Male,0- $25K,East,0
+1243,Male,0- $25K,East,0
+1244,Male,0- $25K,East,0
+1249,Male,0- $25K,East,0
+1253,Male,0- $25K,East,0
+1254,Male,0- $25K,East,0
+1255,Male,0- $25K,East,0
+1258,Male,0- $25K,East,0
+1261,Male,0- $25K,East,0
+1265,Male,0- $25K,East,0
+1269,Male,0- $25K,East,0
+1270,Male,0- $25K,East,0
+1272,Male,0- $25K,East,0
+1274,Male,0- $25K,East,0
+1279,Male,0- $25K,East,0
+1282,Male,0- $25K,East,0
+1284,Male,0- $25K,East,0
+1286,Male,0- $25K,East,0
+1288,Male,0- $25K,East,0
+1294,Male,0- $25K,East,0
+1297,Male,0- $25K,East,0
+1298,Male,0- $25K,East,0
+1299,Male,0- $25K,East,0
+1301,Male,0- $25K,East,0
+1302,Male,0- $25K,East,0
+1303,Male,0- $25K,East,0
+1304,Male,0- $25K,East,0
+1307,Female,0- $25K,East,0
+1308,Female,0- $25K,East,1
+1309,Female,0- $25K,East,1
+1310,Female,0- $25K,East,1
+1311,Female,0- $25K,East,0
+1312,Female,0- $25K,East,1
+1313,Female,0- $25K,East,0
+1314,Female,0- $25K,East,1
+1315,Female,0- $25K,East,0
+1316,Female,0- $25K,East,1
+1317,Female,0- $25K,East,0
+1318,Female,0- $25K,East,1
+1319,Female,0- $25K,East,0
+1320,Female,0- $25K,East,0
+1321,Female,0- $25K,East,0
+1322,Female,0- $25K,East,0
+1323,Female,0- $25K,East,0
+1324,Female,0- $25K,East,1
+1325,Female,0- $25K,East,0
+1326,Female,0- $25K,East,0
+1327,Female,0- $25K,East,1
+1328,Female,0- $25K,East,1
+1329,Female,0- $25K,East,1
+1330,Female,0- $25K,East,0
+1331,Female,0- $25K,East,1
+1332,Female,0- $25K,East,0
+1333,Female,0- $25K,East,0
+1334,Female,0- $25K,East,1
+1335,Female,0- $25K,East,1
+1336,Female,0- $25K,East,1
+1337,Female,0- $25K,East,0
+1338,Female,0- $25K,East,0
+1339,Female,0- $25K,East,1
+1340,Female,0- $25K,East,1
+1341,Female,0- $25K,East,1
+1342,Female,0- $25K,East,0
+1343,Female,0- $25K,East,0
+1344,Female,0- $25K,East,1
+1345,Female,0- $25K,East,1
+1346,Female,0- $25K,East,0
+1347,Female,0- $25K,East,0
+1348,Female,0- $25K,East,0
+1349,Female,0- $25K,East,1
+1350,Female,0- $25K,East,1
+1351,Female,0- $25K,East,1
+1352,Female,0- $25K,East,0
+1353,Female,0- $25K,East,1
+1354,Female,0- $25K,East,0
+1355,Female,0- $25K,East,1
+1356,Female,0- $25K,East,1
+1357,Female,0- $25K,East,0
+1358,Female,0- $25K,East,1
+1359,Female,0- $25K,East,1
+1360,Female,0- $25K,East,0
+1361,Female,0- $25K,East,0
+1362,Female,0- $25K,East,0
+1363,Female,0- $25K,East,1
+1364,Female,0- $25K,East,0
+1365,Female,0- $25K,East,1
+1366,Female,0- $25K,East,1
+1367,Female,0- $25K,East,1
+1368,Female,0- $25K,East,0
+1369,Female,0- $25K,East,0
+1370,Female,0- $25K,East,1
+1371,Female,0- $25K,East,0
+1372,Female,0- $25K,East,1
+1373,Female,0- $25K,East,1
+1374,Female,0- $25K,East,0
+1375,Female,0- $25K,East,1
+1376,Female,0- $25K,East,1
+1377,Female,0- $25K,East,1
+1378,Female,0- $25K,East,0
+1379,Female,0- $25K,East,0
+1380,Female,0- $25K,East,1
+1381,Female,0- $25K,East,1
+1382,Female,0- $25K,East,1
+1383,Female,0- $25K,East,1
+1384,Female,0- $25K,East,1
+1385,Female,0- $25K,East,1
+1386,Female,0- $25K,East,0
+1387,Female,0- $25K,East,0
+1388,Female,0- $25K,East,0
+1389,Female,0- $25K,East,0
+1390,Female,0- $25K,East,0
+1391,Female,0- $25K,East,0
+1392,Female,0- $25K,East,0
+1393,Female,0- $25K,East,1
+1394,Female,0- $25K,East,0
+1395,Female,0- $25K,East,0
+1396,Female,0- $25K,East,1
+1397,Female,0- $25K,East,0
+1398,Female,0- $25K,East,1
+1399,Female,0- $25K,East,0
+1400,Female,0- $25K,East,1
+1401,Female,0- $25K,East,1
+1402,Female,0- $25K,East,0
+1403,Female,0- $25K,East,1
+1404,Female,0- $25K,East,0
+1405,Female,0- $25K,East,1
+1406,Female,0- $25K,East,0
+1407,Female,0- $25K,East,0
+1408,Female,0- $25K,East,1
+1409,Female,0- $25K,East,0
+1410,Female,0- $25K,East,1
+1411,Female,0- $25K,East,0
+1412,Female,0- $25K,East,1
+1413,Female,0- $25K,East,1
+1414,Female,0- $25K,East,1
+1415,Female,0- $25K,East,1
+1416,Female,0- $25K,East,0
+1417,Female,0- $25K,East,0
+1418,Female,0- $25K,East,1
+1419,Female,0- $25K,East,0
+1420,Female,0- $25K,East,1
+1421,Female,0- $25K,East,0
+1422,Female,0- $25K,East,0
+1423,Female,0- $25K,East,0
+1424,Female,0- $25K,East,0
+1425,Female,0- $25K,East,1
+1426,Female,0- $25K,East,1
+1427,Female,0- $25K,East,0
+1428,Female,0- $25K,East,0
+1429,Female,0- $25K,East,1
+1430,Female,0- $25K,East,1
+1431,Female,0- $25K,East,0
+1432,Female,0- $25K,East,0
+1433,Female,0- $25K,West,0
+1434,Female,0- $25K,West,0
+1438,Female,0- $25K,West,0
+1439,Female,0- $25K,West,0
+1441,Female,0- $25K,West,0
+1442,Female,0- $25K,West,0
+1443,Female,0- $25K,West,0
+1444,Female,0- $25K,West,0
+1445,Female,0- $25K,West,0
+1446,Female,0- $25K,West,0
+1447,Female,0- $25K,West,0
+1448,Female,0- $25K,West,0
+1450,Female,0- $25K,West,0
+1451,Female,0- $25K,West,0
+1455,Female,0- $25K,West,0
+1460,Female,0- $25K,West,0
+1461,Female,0- $25K,West,0
+1462,Female,0- $25K,West,0
+1463,Female,0- $25K,West,0
+1464,Female,0- $25K,West,0
+1469,Female,0- $25K,West,0
+1471,Female,0- $25K,West,0
+1474,Female,0- $25K,West,0
+1475,Female,0- $25K,West,0
+1476,Female,0- $25K,West,0
+1477,Female,0- $25K,West,0
+1478,Female,0- $25K,West,0
+1481,Female,0- $25K,West,0
+1483,Female,0- $25K,West,0
+1485,Female,0- $25K,West,0
+1487,Female,0- $25K,West,0
+1492,Female,0- $25K,West,0
+1494,Female,0- $25K,West,0
+1495,Female,0- $25K,West,0
+1497,Female,0- $25K,West,0
+1498,Female,0- $25K,West,0
+1499,Female,0- $25K,West,0
+1503,Female,0- $25K,West,0
+1506,Female,0- $25K,West,0
+1507,Female,0- $25K,West,0
+1515,Female,0- $25K,West,0
+1516,Female,0- $25K,West,0
+1517,Female,0- $25K,West,0
+1518,Female,0- $25K,West,0
+1526,Female,0- $25K,West,0
+1527,Female,0- $25K,West,0
+1532,Female,0- $25K,West,0
+1534,Female,0- $25K,West,0
+1535,Female,0- $25K,West,0
+1536,Female,0- $25K,West,0
+1541,Female,0- $25K,West,0
+1543,Female,0- $25K,West,0
+1544,Female,0- $25K,West,0
+1545,Female,0- $25K,West,0
+1546,Female,0- $25K,West,0
+1547,Female,0- $25K,West,0
+1548,Female,0- $25K,West,0
+1549,Female,0- $25K,West,0
+1550,Female,0- $25K,West,0
+1551,Female,0- $25K,West,0
+1552,Female,0- $25K,West,0
+1557,Female,0- $25K,West,0
+1560,Female,0- $25K,West,0
+1561,Female,0- $25K,West,0
+1562,Female,0- $25K,West,0
+1567,Female,0- $25K,West,0
+1569,Female,0- $25K,West,0
+1570,Female,0- $25K,West,0
+1572,Female,0- $25K,West,0
+1573,Female,0- $25K,West,0
+1574,Female,0- $25K,West,0
+1575,Female,0- $25K,West,0
+1581,Female,0- $25K,West,0
+1582,Female,0- $25K,West,0
+1583,Female,0- $25K,West,0
+1586,Female,0- $25K,West,0
+1588,Female,0- $25K,West,0
+1591,Female,0- $25K,West,0
+1592,Female,0- $25K,West,0
+1595,Female,0- $25K,West,0
+1596,Female,0- $25K,West,0
+1597,Female,0- $25K,West,0
+1599,Female,0- $25K,West,0
+1435,Female,0- $25K,West,1
+1436,Female,0- $25K,West,1
+1437,Female,0- $25K,West,1
+1440,Female,0- $25K,West,1
+1449,Female,0- $25K,West,1
+1452,Female,0- $25K,West,1
+1453,Female,0- $25K,West,1
+1454,Female,0- $25K,West,1
+1456,Female,0- $25K,West,1
+1457,Female,0- $25K,West,1
+1458,Female,0- $25K,West,1
+1459,Female,0- $25K,West,1
+1465,Female,0- $25K,West,1
+1466,Female,0- $25K,West,1
+1467,Female,0- $25K,West,1
+1468,Female,0- $25K,West,1
+1470,Female,0- $25K,West,1
+1472,Female,0- $25K,West,1
+1473,Female,0- $25K,West,1
+1479,Female,0- $25K,West,1
+1480,Female,0- $25K,West,1
+1482,Female,0- $25K,West,1
+1484,Female,0- $25K,West,1
+1486,Female,0- $25K,West,1
+1488,Female,0- $25K,West,1
+1489,Female,0- $25K,West,1
+1490,Female,0- $25K,West,1
+1491,Female,0- $25K,West,1
+1493,Female,0- $25K,West,1
+1496,Female,0- $25K,West,1
+1500,Female,0- $25K,West,1
+1501,Female,0- $25K,West,1
+1502,Female,0- $25K,West,1
+1504,Female,0- $25K,West,1
+1505,Female,0- $25K,West,1
+1508,Female,0- $25K,West,1
+1509,Female,0- $25K,West,1
+1510,Female,0- $25K,West,1
+1511,Female,0- $25K,West,1
+1512,Female,0- $25K,West,1
+1513,Female,0- $25K,West,1
+1514,Female,0- $25K,West,1
+1519,Female,0- $25K,West,1
+1520,Female,0- $25K,West,1
+1521,Female,0- $25K,West,1
+1522,Female,0- $25K,West,1
+1523,Female,0- $25K,West,1
+1524,Female,0- $25K,West,1
+1525,Female,0- $25K,West,1
+1528,Female,0- $25K,West,1
+1529,Female,0- $25K,West,1
+1530,Female,0- $25K,West,1
+1531,Female,0- $25K,West,1
+1533,Female,0- $25K,West,1
+1537,Female,0- $25K,West,1
+1538,Female,0- $25K,West,1
+1539,Female,0- $25K,West,1
+1540,Female,0- $25K,West,1
+1542,Female,0- $25K,West,1
+1553,Female,0- $25K,West,1
+1554,Female,0- $25K,West,1
+1555,Female,0- $25K,West,1
+1556,Female,0- $25K,West,1
+1558,Female,0- $25K,West,1
+1559,Female,0- $25K,West,1
+1563,Female,0- $25K,West,1
+1564,Female,0- $25K,West,1
+1565,Female,0- $25K,West,1
+1566,Female,0- $25K,West,1
+1568,Female,0- $25K,West,1
+1571,Female,0- $25K,West,1
+1576,Female,0- $25K,West,1
+1577,Female,0- $25K,West,1
+1578,Female,0- $25K,West,1
+1579,Female,0- $25K,West,1
+1580,Female,0- $25K,West,1
+1584,Female,0- $25K,West,1
+1585,Female,0- $25K,West,1
+1587,Female,0- $25K,West,1
+1589,Female,0- $25K,West,1
+1590,Female,0- $25K,West,1
+1593,Female,0- $25K,West,1
+1594,Female,0- $25K,West,1
+1598,Female,0- $25K,West,1
+400,Male,0- $25K,North,0
+403,Male,$25-$70K,West,1
+404,Male,$25-$70K,North,1
+405,Male,$25-$70K,North,0
+406,Male,$25-$70K,North,0
+407,Male,$25-$70K,North,0
+408,Male,$25-$70K,North,1
+409,Male,$25-$70K,North,0
+410,Male,$25-$70K,North,1
+411,Male,$25-$70K,North,0
+412,Male,$25-$70K,North,0
+413,Male,$25-$70K,North,0
+414,Male,$25-$70K,North,1
+415,Male,$25-$70K,North,0
+416,Male,$25-$70K,North,1
+417,Male,$25-$70K,North,0
+418,Male,$25-$70K,North,0
+419,Male,$25-$70K,North,0
+420,Male,$25-$70K,North,0
+755,Male,$25-$70K,North,0
+756,Male,$25-$70K,North,1
+757,Male,$25-$70K,North,0
+758,Male,$25-$70K,North,0
+759,Male,$25-$70K,North,0
+760,Male,$25-$70K,North,1
+761,Male,$25-$70K,North,0
+762,Male,$25-$70K,North,0
+1128,Male,$25-$70K,East,0
+1129,Male,$25-$70K,East,0
+1130,Male,$25-$70K,East,0
+1131,Male,$25-$70K,East,1
+1132,Male,$25-$70K,East,0
+1133,Male,$25-$70K,East,1
+1134,Male,$25-$70K,East,0
+1135,Male,$25-$70K,East,1
+1136,Male,$25-$70K,East,1
+1137,Male,$25-$70K,East,1
+1138,Male,$25-$70K,East,1
+1139,Male,$25-$70K,East,0
+1140,Male,$25-$70K,East,1
+1141,Male,$25-$70K,East,1
+1142,Male,$25-$70K,East,1
+1143,Male,$25-$70K,East,1
+1144,Male,$25-$70K,East,0
+1145,Male,$25-$70K,East,1
+1146,Male,$25-$70K,East,1
+1147,Male,$25-$70K,East,0
+1148,Male,$25-$70K,East,1
+1149,Male,$25-$70K,East,1
+1150,Male,$25-$70K,East,0
+1151,Male,$25-$70K,East,1
+1152,Male,$25-$70K,East,1
+1153,Male,$25-$70K,East,0
+1154,Male,$25-$70K,East,0
+1155,Male,$25-$70K,East,0
+1156,Male,$25-$70K,East,1
+1157,Male,$25-$70K,East,1
+1158,Male,$25-$70K,East,1
+1159,Male,$25-$70K,East,0
+1160,Male,$25-$70K,East,1
+1161,Male,$25-$70K,East,0
+1162,Male,$25-$70K,East,1
+1163,Male,$25-$70K,East,1
+1164,Male,$25-$70K,East,0
+1165,Male,$25-$70K,East,1
+1166,Male,$25-$70K,East,1
+401,Male,$25-$70K,South,1
+763,Male,$25-$70K,South,1
+767,Male,$25-$70K,South,1
+768,Male,$25-$70K,South,1
+769,Male,$25-$70K,South,1
+772,Male,$25-$70K,South,1
+774,Male,$25-$70K,South,1
+775,Male,$25-$70K,South,1
+779,Male,$25-$70K,South,1
+781,Male,$25-$70K,South,1
+785,Male,$25-$70K,South,1
+786,Male,$25-$70K,South,1
+791,Male,$25-$70K,South,1
+792,Male,$25-$70K,South,1
+793,Male,$25-$70K,South,1
+794,Male,$25-$70K,South,1
+795,Male,$25-$70K,South,1
+796,Male,$25-$70K,South,1
+797,Male,$25-$70K,South,1
+799,Male,$25-$70K,South,1
+801,Male,$25-$70K,South,1
+802,Male,$25-$70K,South,1
+805,Male,$25-$70K,South,1
+810,Male,$25-$70K,South,1
+812,Male,$25-$70K,South,1
+813,Male,$25-$70K,South,1
+816,Male,$25-$70K,South,1
+819,Male,$25-$70K,South,1
+822,Male,$25-$70K,South,1
+823,Male,$25-$70K,South,1
+830,Male,$25-$70K,South,1
+831,Male,$25-$70K,South,1
+834,Male,$25-$70K,South,1
+839,Male,$25-$70K,South,1
+1043,Male,$25-$70K,South,1
+1046,Male,$25-$70K,South,1
+1047,Male,$25-$70K,South,1
+1048,Male,$25-$70K,South,1
+1052,Male,$25-$70K,South,1
+1054,Male,$25-$70K,South,1
+1055,Male,$25-$70K,South,1
+1056,Male,$25-$70K,South,1
+1058,Male,$25-$70K,South,1
+1060,Male,$25-$70K,South,1
+1061,Male,$25-$70K,South,1
+1063,Male,$25-$70K,South,1
+1064,Male,$25-$70K,South,1
+1074,Male,$25-$70K,South,1
+1075,Male,$25-$70K,South,1
+1076,Male,$25-$70K,South,1
+1077,Male,$25-$70K,South,1
+1079,Male,$25-$70K,South,1
+1081,Male,$25-$70K,South,1
+1089,Male,$25-$70K,South,1
+1093,Male,$25-$70K,South,1
+1094,Male,$25-$70K,South,1
+1096,Male,$25-$70K,South,1
+1097,Male,$25-$70K,South,1
+1099,Male,$25-$70K,South,1
+1100,Male,$25-$70K,South,1
+1103,Male,$25-$70K,South,1
+1107,Male,$25-$70K,South,1
+1108,Male,$25-$70K,South,1
+1109,Male,$25-$70K,South,1
+1112,Male,$25-$70K,South,1
+1115,Male,$25-$70K,South,1
+1116,Male,$25-$70K,South,1
+1122,Male,$25-$70K,South,1
+1126,Male,$25-$70K,South,1
+1127,Male,$25-$70K,South,1
+764,Male,$25-$70K,South,0
+765,Male,$25-$70K,South,0
+766,Male,$25-$70K,South,0
+770,Male,$25-$70K,South,0
+771,Male,$25-$70K,South,0
+773,Male,$25-$70K,South,0
+776,Male,$25-$70K,South,0
+777,Male,$25-$70K,South,0
+778,Male,$25-$70K,South,0
+780,Male,$25-$70K,South,0
+782,Male,$25-$70K,South,0
+783,Male,$25-$70K,South,0
+784,Male,$25-$70K,South,0
+787,Male,$25-$70K,South,0
+788,Male,$25-$70K,South,0
+789,Male,$25-$70K,South,0
+790,Male,$25-$70K,South,0
+798,Male,$25-$70K,South,0
+800,Male,$25-$70K,South,0
+803,Male,$25-$70K,South,0
+804,Male,$25-$70K,South,0
+806,Male,$25-$70K,South,0
+807,Male,$25-$70K,South,0
+808,Male,$25-$70K,South,0
+809,Male,$25-$70K,South,0
+811,Male,$25-$70K,South,0
+814,Male,$25-$70K,South,0
+815,Male,$25-$70K,South,0
+817,Male,$25-$70K,South,0
+818,Male,$25-$70K,South,0
+820,Male,$25-$70K,South,0
+821,Male,$25-$70K,South,0
+824,Male,$25-$70K,South,0
+825,Male,$25-$70K,South,0
+826,Male,$25-$70K,South,0
+827,Male,$25-$70K,South,0
+828,Male,$25-$70K,South,0
+829,Male,$25-$70K,South,0
+832,Male,$25-$70K,South,0
+833,Male,$25-$70K,South,0
+835,Male,$25-$70K,South,0
+836,Male,$25-$70K,South,0
+837,Male,$25-$70K,South,0
+838,Male,$25-$70K,South,0
+840,Male,$25-$70K,South,0
+1044,Male,$25-$70K,South,0
+1045,Male,$25-$70K,South,0
+1049,Male,$25-$70K,South,0
+1050,Male,$25-$70K,South,0
+1051,Male,$25-$70K,South,0
+1053,Male,$25-$70K,South,0
+1057,Male,$25-$70K,South,0
+1059,Male,$25-$70K,South,0
+1062,Male,$25-$70K,South,0
+1065,Male,$25-$70K,South,0
+1066,Male,$25-$70K,South,0
+1067,Male,$25-$70K,South,0
+1068,Male,$25-$70K,South,0
+1069,Male,$25-$70K,South,0
+1070,Male,$25-$70K,South,0
+1071,Male,$25-$70K,South,0
+1072,Male,$25-$70K,South,0
+1073,Male,$25-$70K,South,0
+1078,Male,$25-$70K,South,0
+1080,Male,$25-$70K,South,0
+1082,Male,$25-$70K,South,0
+1083,Male,$25-$70K,South,0
+1084,Male,$25-$70K,South,0
+1085,Male,$25-$70K,South,0
+1086,Male,$25-$70K,South,0
+1087,Male,$25-$70K,South,0
+1088,Male,$25-$70K,South,0
+1090,Male,$25-$70K,South,0
+1091,Male,$25-$70K,South,0
+1092,Male,$25-$70K,South,0
+1095,Male,$25-$70K,South,0
+1098,Male,$25-$70K,South,0
+1101,Male,$25-$70K,South,0
+1102,Male,$25-$70K,South,0
+1104,Male,$25-$70K,South,0
+1105,Male,$25-$70K,South,0
+1106,Male,$25-$70K,South,0
+1110,Male,$25-$70K,South,0
+1111,Male,$25-$70K,South,0
+1113,Male,$25-$70K,South,0
+1114,Male,$25-$70K,South,0
+1117,Male,$25-$70K,South,0
+1118,Male,$25-$70K,South,0
+1119,Male,$25-$70K,South,0
+1120,Male,$25-$70K,South,0
+1121,Male,$25-$70K,South,0
+1123,Male,$25-$70K,South,0
+1124,Male,$25-$70K,South,0
+1125,Male,$25-$70K,South,0
+402,Male,>$70K,East,0
+995,Male,>$70K,South,0
+996,Male,>$70K,South,1
+997,Male,>$70K,South,1
+998,Male,>$70K,South,0
+999,Male,>$70K,South,0
+1000,Male,>$70K,South,1
+1001,Male,>$70K,South,1
+1002,Male,>$70K,South,1
+1003,Male,>$70K,South,1
+1004,Male,>$70K,South,0
+1005,Male,>$70K,South,0
+1006,Male,>$70K,South,0
+1007,Male,>$70K,South,1
+1008,Male,>$70K,South,0
+1009,Male,>$70K,South,1
+1010,Male,>$70K,South,1
+1011,Male,>$70K,South,1
+1012,Male,>$70K,South,1
+1013,Male,>$70K,South,0
+1014,Male,>$70K,South,0
+1015,Male,>$70K,South,0
+1016,Male,>$70K,South,1
+1017,Male,>$70K,South,1
+1018,Male,>$70K,South,1
+1019,Male,>$70K,South,1
+1020,Male,>$70K,South,0
+1021,Male,>$70K,South,1
+1022,Male,>$70K,South,0
+1023,Male,>$70K,South,0
+1024,Male,>$70K,South,1
+1025,Male,>$70K,South,0
+1026,Male,>$70K,South,1
+1027,Male,>$70K,South,0
+1028,Male,>$70K,South,1
+1029,Male,>$70K,South,1
+1030,Male,>$70K,South,1
+1031,Male,>$70K,South,0
+1032,Male,>$70K,South,0
+1033,Male,>$70K,South,0
+1034,Male,>$70K,South,0
+1035,Male,>$70K,South,0
+1036,Male,>$70K,South,1
+1037,Male,>$70K,South,1
+1038,Male,>$70K,South,0
+1039,Male,>$70K,South,1
+1040,Male,>$70K,South,1
+1041,Male,>$70K,South,1
+1042,Male,>$70K,South,0
